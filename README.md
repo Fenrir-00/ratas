@@ -1,1 +1,3 @@
 # ratas
+
+![Screenshot](rata.jpg)
